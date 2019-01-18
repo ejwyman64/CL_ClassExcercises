@@ -10,6 +10,9 @@ namespace CL_ClassExcercises
     {
         static void Main(string[] args)
         {
+            string Food = new Food();
+            Food.CupCake = 12;
+            Console.WriteLine();
         }
     }
 }
